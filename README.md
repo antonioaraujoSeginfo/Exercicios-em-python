@@ -1,2 +1,2 @@
-# exercicios em python
+# Exercicios em python
 Contagem de caracteres listas
